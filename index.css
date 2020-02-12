@@ -1,0 +1,17 @@
+.container {
+	
+    text-align:center;
+    width: 1024px;
+}
+
+h1 {
+	font-size: 75px;
+	color:red;
+	text-transform: uppercase;
+	margin: 15px;
+}
+
+body {
+	display:flex;
+	justify-content: center;
+}
